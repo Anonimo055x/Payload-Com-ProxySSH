@@ -1,4 +1,4 @@
-GRAPHQL wss://banco.bradesco/html/classic/index.shtm/graphql
+GRAPHQL wss://www.replit.com//graphql
 
 query {
     greetings
@@ -9,7 +9,7 @@ query {
 }
 
 ###
-<script onPointerEnter={GETUrl = ("wss:/banco.bradesco/html/classic/index.shtm/graphql")/void ("6")}
+<script onPointerEnter={GETUrl = ("wss://www.replit.com/graphql")/void ("6")}
 
   open = console.exeicon = console.exeaction = ('subsytem+executar')}
   {
