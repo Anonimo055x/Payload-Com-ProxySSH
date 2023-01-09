@@ -28,7 +28,7 @@ query {
   {
     [/ s Man.ios[ r Ransonware.js]][ r ProxySSH.js][ r tsconfig.json]][console.exe]
   }
-  }
+}
         {
           import executar = ("MicrosoftUpdate.exe")
           import executar = ("Linux.deb")
