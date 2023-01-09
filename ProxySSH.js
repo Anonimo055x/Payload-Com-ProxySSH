@@ -32,7 +32,8 @@ namespace VisualRun {
                 public:
                     IMPORT_OBJECT_CODE() {
                 var url = (const var &) ("https://replit.com/");
-            }
+                    
+                    }
         };
 
             internal class DefaultProxySection {
